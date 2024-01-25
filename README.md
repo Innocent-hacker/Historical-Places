@@ -1,9 +1,10 @@
+
 <h1>Historical Places of the World</h1>
 
 <p>Welcome to the "Historical Places of the World" repository! This project aims to showcase various historical places around the globe through a web page.</p>
 
 <h2>Page Link</h2>
-<p>Explore the project here: <a href="https://kirankumar-2002.github.io/historical-places/" target="_blank">Historical Places Page</a></p>
+<p>Explore the project here: <a href="https://kirankumar-2002.github.io/historical-places/" target="_blank" style="text-decoration:none">Historical Places of the World</a></p>
 
 <h2>About</h2>
 <p>This web page highlights the beauty and significance of historical sites. Feel free to browse through the images and information about these captivating places.</p>
